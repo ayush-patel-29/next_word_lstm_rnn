@@ -5,7 +5,7 @@ This project predicts the next word in Shakespearean text using an LSTM RNN.
 ## Folder Structure
 
 ```
-LSTM_RNN/
+next_word_lstm_rnn/
 ├── app.py
 ├── lstm_rnn.ipynb
 ├── next_word_lstm.h5
